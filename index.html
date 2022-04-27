@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html lang = "pt-br">
+    <head>
+        <link href = "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel = "stylesheet" integrity = "sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin = "anonymous">
+        <script src = "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity = "sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin = "anonymous"></script>
+        <link href = "https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap" rel = "stylesheet">
+        <link href = "styles.css" rel = "stylesheet">
+        <script src = "scripts.js" defer></script>
+        <title>Jogo da Velha</title>
+    </head>
+    <body>
+        <main class = "background"></main>
+        
+            <!-- Header -->
+            <section class = "header">
+                <h1>Jogo da Velha</h1>
+            </section>
+            
+            <!-- Add instructions? -->
+            
+            <!-- Game tiles -->
+            <div class = "board" id = "board">
+                <div class = "tile"></div>
+                <div class = "tile"></div>
+                <div class = "tile"></div>
+                <div class = "tile"></div>
+                <div class = "tile"></div>
+                <div class = "tile"></div>
+                <div class = "tile"></div>
+                <div class = "tile"></div>
+                <div class = "tile"></div>
+            </div>
+            
+            <!-- Reset button -->
+            <div class = "controls">
+                <button id = "resetButton">Reset</button>
+            </div>
+            
+            <!-- Winner -->
+            <div class = "winning-message" id = "winningMessage">
+                <div class = "winning-text" id = "winningText">X wins!</div>
+                <button id = "restartButton">Reiniciar</button>
+            </div>
+    </body>
+</html>
