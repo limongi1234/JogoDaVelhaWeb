@@ -1,4 +1,4 @@
-> **Nota:** este repositório é uma cópia, feita para estudo, do projeto [Javascript-TicTacToe](https://github.com/beatrizmakowski/Javascript-TicTacToe) de **[Beatriz Makowski](https://github.com/beatrizmakowski)**, distribuído sob a licença MIT. Todo o crédito pelo projeto é da autora original.
+> Projeto desenvolvido no **bootcamp de desenvolvimento de jogos da DIO**, tendo como base o [Javascript-TicTacToe](https://github.com/beatrizmakowski/Javascript-TicTacToe) de [Beatriz Makowski](https://github.com/beatrizmakowski) (licença MIT).
 
 # Tic Tac Toe with Javascript
 ![Concluído!](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge?style=plastic&logo=appveyor) ![Badge licença](https://img.shields.io/github/license/beatrizmakowski/Desafio-Cagpemini-2022)
